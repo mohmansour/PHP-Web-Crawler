@@ -1,3 +1,4 @@
+<!-- Credits to : Mohamed mansour Abo-Bakr (mohmansour) -->
 <?php 
 
 $website_to_crawl= "https://www.homegate.ch/mieten/immobilien/kanton-zuerich/trefferliste?ep=1";
